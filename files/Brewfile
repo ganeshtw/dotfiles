@@ -169,7 +169,7 @@ end
 
 # ---- casks
 # cask 'dbeaver-community'
-# cask 'intellij-idea-ce'
+cask 'intellij-idea-ce'
 # cask 'kdiff3'
 # cask 'keycastr'
 # cask 'licecap'
